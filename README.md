@@ -6,3 +6,5 @@ test
 More README changes
 
 Rel 1.1 changes
+
+Rel 1.2 changes
