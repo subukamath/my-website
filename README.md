@@ -14,3 +14,7 @@ updated readme again
 More for update-readme
 
 one last update-readme change
+
+## Getting Started
+
+* This is how you get started
